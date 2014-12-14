@@ -1,0 +1,12 @@
+{
+  "name":"snippetcontrol",
+  "version": "0.0.1",
+  "author": "Andre Smith",
+  "main": "index.js",
+  "description":"Control your hue light with leap",
+  "dependencies": {
+    "node-hue-api": "*",
+    "leapjs": "*",
+    "leapjs-plugins": "*"
+  }
+}
